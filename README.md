@@ -64,9 +64,9 @@ graph LR
 
 The model was evaluated on a synthetic validation subset (N=200) to ensure statistical reliability.
 
-*Confusion Matrix*
+*Confusion Matrix:*
 Low False Negative rate (Type II Error) is prioritized for screening safety.
-*ROC Analysis*
+*ROC Analysis:*
 Achieved an AUC of 0.87, indicating strong discrimination capability.
 
 *Research Note:* The model demonstrates robust performance with an AUC of 0.87. The confusion matrix highlights a deliberate bias towards higher sensitivity (Sensitivity > Specificity) to minimize missed diagnoses in a clinical screening context.
