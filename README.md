@@ -66,6 +66,7 @@ The model was evaluated on a synthetic validation subset (N=200) to ensure stati
 
 *Confusion Matrix:*
 Low False Negative rate (Type II Error) is prioritized for screening safety.
+
 *ROC Analysis:*
 Achieved an AUC of 0.87, indicating strong discrimination capability.
 
