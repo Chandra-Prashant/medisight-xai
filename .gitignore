@@ -20,3 +20,4 @@ dist/
 # Large Models (Optional, if you downloaded any big files)
 *.pth
 *.h5server/uploads/
+server/uploads/
