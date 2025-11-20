@@ -56,9 +56,9 @@ graph LR
 | Service | Tech Stack | Role |
 | :---- | :---- | :---- |
 | **Frontend** |	Next.js 14, TypeScript, Tailwind CSS |	Interactive Dashboard, Heatmap Visualization Overlay. |
-| Gateway	Node.js, Express, Multer | Request Orchestration, Input Validation, Data Persistence. |
-| AI Core	Python, FastAPI, PyTorch, OpenCV | DenseNet Inference, Grad-CAM Math, Image Normalization. |
-| Database | MongoDB | Stores patient history, diagnostic logs, and doctor feedback. |
+| **Gateway** |	Node.js, Express, Multer | Request Orchestration, Input Validation, Data Persistence. |
+| **AI Core** |	Python, FastAPI, PyTorch, OpenCV | DenseNet Inference, Grad-CAM Math, Image Normalization. |
+| **Database** | MongoDB | Stores patient history, diagnostic logs, and doctor feedback. |
 
 ## **📊 Research & Validation**
 
