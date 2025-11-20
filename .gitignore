@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+__pycache__/
+venv/
+.python-version
+
+# Next.js build files
+.next/
+out/
+build/
+dist/
+
+# Environment Variables (NEVER push these)
+.env
+.env.local
+
+# System Files
+.DS_Store
+
+# Large Models (Optional, if you downloaded any big files)
+*.pth
+*.h5
