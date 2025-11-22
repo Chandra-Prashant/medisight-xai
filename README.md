@@ -118,9 +118,9 @@ This tool is a **Research Prototype** designed for educational and portfolio pur
 
 ## **👨‍💻 Author**
 
-Prashant Chandra    
-B.Tech CSE | Aspiring AI-Powered Full Stack Developer    
-📍 Focus Areas: Full Stack Development, Machine Learning, Generative AI    
+**Prashant Chandra**   
+B.Tech CSE | *Full Stack Engineer & AI Researcher*    
+📍 **Specialization:** Microservices, Computer Vision (CNNs), Explainable AI (XAI)  
 • [GitHub](https://github.com/Chandra-Prashant/medisight-xai)\!
 
 ### **⭐ If you like this project, consider giving it a star on [GitHub](https://github.com/Chandra-Prashant/medisight-xai)\!**
